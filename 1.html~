@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+   	<title>The Paintings of Vincent Van Gogh
+   	</title>
+   </head>
+  
+<body>
+ <img src="Vincent_Willem_van_Gogh_128.jpg" alt="Smiley face" height="256" width="256"> 
+ <img src="VanGogh-starry_night_ballance1.jpg" alt="Starry Night" height="256" width="256"> 
+ <img src="VanGogh_Bedroom_Arles1.jpg" alt="Bedroom Arles" height="256" width="256"> 
+ <img src="Vincent_van_Gogh_-_National_Gallery_of_Art.JPG" alt="Self Portait" height="256" width="256"> 
+</body>
+</html>
+
+
