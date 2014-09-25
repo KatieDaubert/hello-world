@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Self Portrait, August 1889</title>
+<title>Bedroom in Arles</title>
 <meta charset="utf-8" />
 <style>
 #MainTitle {
@@ -27,17 +27,17 @@
 </head>
 <body>
 <hgroup id="MainTitle">
-	<h1><center>Self Portrait, August 1889</center></h1>
+	<h1><center>Bedroom in Arles</center></h1>
 </hgroup>
 <div id="MainContent">
 	<section id="Background" class="TopLevel">
-		<p><div id="headshot"><center><img src="Vincent_van_Gogh_-_National_Gallery_of_Art.JPG" alt="Self Portrait, August 1889" height="500" width="500"></center></div></p>
+		<p><div id="headshot"><center><img src="VanGogh_Bedroom_Arles1.jpg" alt="Bedroom in Arles" height="500" width="500"></center></div></p>
 </section>
 
 <section id="Information" class="TopLevel">
 	<h3>Information</h3>
-		<p>Post-ear mutilation.</p>
-		<p>Found: Google Search with "Labeled for resuse with modification". <a href="http://en.wikipedia.org/wiki/Vincent_van_Gogh_chronology">Source</a></p>
+		<p>Wowee what a painting. A+++</p>
+		<p>Found: Google Search with "Labeled for resuse with modification". <a href="http://en.wikipedia.org/wiki/Vincent_van_Gogh#mediaviewer/File:VanGogh_Bedroom_Arles1.jpg">Source</a></p>
 	</section>
 </section>
 </div>
