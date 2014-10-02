@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+   	<title>The Paintings of Vincent Van Gogh
+   	</title>
+  <meta charset="utf-8" />
+<style>
+#MainTitle {
+ background-color: black;
+ color: white;
+}
+</style>
+   </head>
+   
+  <body>
+<hgroup id="MainTitle">
+	<h1><center>The Paintings of Vincent Van Gogh</center></h1>
+	
+</hgroup>
+   <table>
+	<tr>
+		<th>Painting</th>
+		<th>Additional Information</th>
+	</tr>
+	<tr>
+		<td><img src="Vincent_Willem_van_Gogh_128.jpg" alt="Daises and Poppies" height="256" width="256"></td>
+		<td><a href="file:///Users/katiedaubert/Documents/Github/hello-world/1.html">Daises and Poppies</a></td>
+	</tr>
+	<tr>
+		<td><img src="VanGogh-starry_night_ballance1.jpg" alt="Starry Night" height="256" width="256"></td>
+		<td><a href="file:///Users/katiedaubert/Documents/Github/hello-world/2.html">Starry Night</a></td>
+	</tr>
+	<tr>
+		<td><img src="VanGogh_Bedroom_Arles1.jpg" alt="Bedroom in Arles" height="256" width="256"></td>
+		<td><a href="file:///Users/katiedaubert/Documents/Github/hello-world/3.html">Bedroom in Arles</a></td>
+	</tr>
+	<tr>
+		<td><img src="Vincent_van_Gogh_-_National_Gallery_of_Art.JPG" alt="Self Portrait, August 1889" height="256" width="256"></td>
+		<td><a href="file:///Users/katiedaubert/Documents/Github/hello-world/4.html">Self Portrait, August 1889</a></td>
+	</tr>
+
+</body>
+</html>
+
+
